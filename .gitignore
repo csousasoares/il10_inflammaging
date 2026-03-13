@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.txt
+.rds
+
+# Output folders
+input_data/
+output_data/
+seurat_objects/
