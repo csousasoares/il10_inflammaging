@@ -1,6 +1,6 @@
 # Chronic exposure to interleukin-10 drives inflammaging and accelerated tissue senescence
 
-Repository for the paper "Chronic exposure to interleukin-10 drives inflammaging and accelerated tissue senescence". DOI: https://doi.org/10.21203/rs.3.rs-8603195/v1
+Repository for the paper "Chronic exposure to interleukin-10 drives inflammaging and accelerated tissue senescence": https://doi.org/10.21203/rs.3.rs-8603195/v1
 
 ## Contents
 
