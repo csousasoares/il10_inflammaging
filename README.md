@@ -4,7 +4,7 @@ Repository for the paper "Chronic exposure to interleukin-10 drives inflammaging
 
 ## Contents
 
-JPC_mouse_data - Code for GSEA and age-correlation analyses for mouse cells/tissues in Fig 4b-e, Fig. S1f, Fig. S4b-c and Fig. S5b-d
+JPC_mouse_data - Code for GSEA and age-correlation analyses for mouse cells/tissues in Fig 4b-e, Fig. S1f, Fig. S4b-c and Fig. S5b-d (Performed by José Pedro Castro).
 
 TMS_UCell_analysis - Code for the UMAP plots from the Tabula Muris Senis (IL-10 signature) in Fig. 4a and Fig. S5a.
 
